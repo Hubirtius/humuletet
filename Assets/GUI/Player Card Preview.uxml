@@ -1,0 +1,26 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Card" style="height: 150px; flex-grow: 0; width: 300px; border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px; border-left-color: rgba(0, 0, 0, 255); border-right-color: rgba(0, 0, 0, 255); border-top-color: rgba(0, 0, 0, 255); border-bottom-color: rgba(0, 0, 0, 255); flex-direction: row;">
+        <ui:VisualElement name="Portrait" style="width: 174px; background-image: url(&apos;project://database/Assets/Placeholder%20Models/wojaczek.jpg?fileID=2800000&amp;guid=7a55652cfb11a784aa3dd9263efb8811&amp;type=3#wojaczek&apos;); -unity-background-scale-mode: scale-to-fit; background-color: rgba(0, 0, 0, 255);" />
+        <ui:VisualElement name="Attributes" style="flex-grow: 1; flex-direction: row; background-color: rgba(140, 140, 140, 255);">
+            <ui:VisualElement name="Col" style="flex-grow: 1; flex-direction: column; flex-basis: 50%;">
+                <ui:VisualElement name="Gold" class="Attribute" style="flex-grow: 1; background-color: rgba(120, 95, 4, 255); margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; flex-direction: column; -unity-text-align: upper-left;">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: middle-center; font-size: 14px; white-space: nowrap; width: auto; flex-direction: column;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="Health" class="Attribute" style="flex-grow: 1; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; background-color: rgba(48, 108, 49, 255);">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: middle-center; font-size: 14px; white-space: nowrap; width: auto; flex-direction: column;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="Col" style="flex-grow: 1; flex-direction: column; flex-basis: 50%;">
+                <ui:VisualElement name="Strength" class="Attribute" style="flex-grow: 1; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; background-color: rgba(113, 24, 24, 255);">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: middle-center; font-size: 14px; white-space: nowrap; width: auto; flex-direction: column;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="Agility" class="Attribute" style="flex-grow: 1; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; background-color: rgba(37, 77, 37, 255);">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: middle-center; font-size: 14px; white-space: nowrap; width: auto; flex-direction: column;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="Inteligence" class="Attribute" style="flex-grow: 1; margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; background-color: rgba(30, 94, 118, 255); flex-direction: column;">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" style="flex-grow: 1; -unity-text-align: middle-center; font-size: 14px; white-space: nowrap; width: auto; flex-direction: column;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

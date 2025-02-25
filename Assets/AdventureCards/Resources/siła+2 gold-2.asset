@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9023b2d88d1a8c438759a3212bbebf9, type: 3}
+  m_Name: "si\u0142a+2 gold-2"
+  m_EditorClassIdentifier: 
+  cardId: 16
+  typeCard: Treasure
+  cardName: Trener walki mieczem
+  cardDescription: "spotykasz trenera kt\xF3ry mo\u017Ce Ci\u0119 pos\u0142ugiwa\u0107
+    si\u0119 lepiej broni\u0105 za 2 szt z\u0142ota. Dostajesz 2 pkt si\u0142y"
+  cardPriority: 0
+  owner: {fileID: 0}
+  gold: -2
+  strenght: 2
+  agility: 0
+  inteligence: 0
+  healthPoints: 0

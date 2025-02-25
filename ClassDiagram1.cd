@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MouseEventBroadcaster" Collapsed="true">
+    <Position X="17.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MouseEventBroadcaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterUI">
+    <Position X="8.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AASFAAAAACQAEAAACAAAAAAAAAUAAAAAQAABAABAhkA=</HashCode>
+      <FileName>Assets\Scripts\MasterUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapHelper" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utility\MapHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Talia">
+    <Position X="17.5" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Talia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventureCard" Collapsed="true">
+    <Position X="14" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAgABAAAAIAAAAAAAIAAkAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utility\Cards scripts\AdventureCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DangerousOpponent" Collapsed="true">
+    <Position X="12" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAIAAAAAAAAACAAAAAFAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utility\Cards scripts\DangerousOpponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasure" Collapsed="true">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAEMAAAAAAQAADAAAAAFAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Utility\Cards scripts\Treasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

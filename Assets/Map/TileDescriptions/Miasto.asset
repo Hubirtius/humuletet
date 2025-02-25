@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4d1c26103cddec4a8f38ab70d2f3429, type: 3}
+  m_Name: Miasto
+  m_EditorClassIdentifier: 
+  tileName: Miasto
+  description: "Mo\u017Cesz odwiedzi\u0107 dowolne miejsce:\nKu\u017Ania/P\u0142atnerz-
+    Mo\u017Csz zakupi\u0107 u kowala jego wyroby:\nSztylet(1g)\tD\u0142ugi miecz(2g)\t\tMiecz
+    Dw\xF3r\u0119czny(3g)\nKolczuga(2g)\tZborja P\u0142ytowa(4g)\tTarcza(1g)\nW\u0142\xF3cznia/Oszczep\tPika\tHalabarda\nTop\xF3r
+    Jednor\u0119czny\tTop\xF3r Obur\u0119czny\n\nKrawiec:\nPlecak\t\tLekka zbroja\nRzemie\u015Blnik:\nW\u0142\xF3cznia/Oszczep\tPika\tHalabarda\n\u0141uk\tKusza\tStrza\u0142y\tBe\u0142ty\n\nBiblioteka
+    - Mo\u017Cesz tutaj wyda\u0107 1g i straci\u0107 1 tur\u0119 na czytaniu ksi\u0105\u017Cek
+    aby m\xF3c doda\u0107 1 punkt do swojej inteligencji\n\n"
